@@ -1,0 +1,6 @@
+requests
+pyTelegramBotAPI
+user-agent
+beautifulsoup4
+autoshopify
+requests-toolbelt
